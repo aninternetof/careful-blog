@@ -1,6 +1,6 @@
 baseURL = "http://brady.fyi/"
 languageCode = "en-us"
 title = "Brady Hurlburt"
-theme = "Hyde"
+theme = "hyde"
 [params]
     description = "I am interested in education and code."
