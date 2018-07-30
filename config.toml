@@ -5,9 +5,20 @@ theme = "hyde"
 disqusShortname = "careful-blog"
 [params]
     description = "I am interested in education and code."
+    layoutReverse = true
 [menu]
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/posts/"
     weight = -110
+  [[menu.main]]
+    identifier = "rovercode"
+    name = "rovercode"
+    url = "https://rovercode.com"
+    weight = -100
+  [[menu.main]]
+    identifier = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/aninternetof"
+    weight = -90
