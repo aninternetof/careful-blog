@@ -2,5 +2,6 @@ baseURL = "https://brady.fyi/"
 languageCode = "en-us"
 title = "Brady Hurlburt"
 theme = "hyde"
+disqusShortname = "bradyhurlburt"
 [params]
     description = "I am interested in education and code."
