@@ -5,3 +5,9 @@ theme = "hyde"
 disqusShortname = "careful-blog"
 [params]
     description = "I am interested in education and code."
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = -110
