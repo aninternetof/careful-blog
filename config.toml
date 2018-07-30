@@ -1,0 +1,4 @@
+baseURL = "http://brady.fyi/"
+languageCode = "en-us"
+title = "Brady's Blog"
+theme = "Hyde"
