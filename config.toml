@@ -1,4 +1,4 @@
-baseURL = "https://brady.fyi"
+baseURL = "https://brady.fyi/"
 languageCode = "en-us"
 title = "Brady Hurlburt"
 theme = "hyde"
