@@ -8,17 +8,22 @@ disqusShortname = "careful-blog"
     layoutReverse = true
 [menu]
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/posts/"
+    identifier = "music"
+    name = "Music"
+    url = "/music/"
     weight = -110
+  [[menu.main]]
+    identifier = "softare"
+    name = "software"
+    url = "/projects/"
+    weight = -100
   [[menu.main]]
     identifier = "rovercode"
     name = "rovercode"
     url = "https://rovercode.com"
-    weight = -100
+    weight = -90
   [[menu.main]]
     identifier = "twitter"
-    name = "Twitter"
+    name = "Tweetz"
     url = "https://twitter.com/aninternetof"
-    weight = -90
+    weight = -80
