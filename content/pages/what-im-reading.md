@@ -5,5 +5,8 @@ draft: false
 menu: "main"
 ---
 
-- *From Dawn to Decadence*, Jacques Barzun, 2000
+* *From Dawn to Decadence*, Jacques Barzunnnn, 2000
+* next thing
+
+<!--more-->
 
