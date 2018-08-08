@@ -5,6 +5,10 @@ draft: false
 menu: "main"
 ---
 
+## Always
+* *[A Small Fiction](https://twitter.com/ASmallFiction)*
+* *[A Softer World](http://www.asofterworld.com/)*
+
 ## 2018
 
 * *From Dawn to Decadence*, Jacques Barzun, 2000
