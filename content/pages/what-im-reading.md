@@ -8,6 +8,7 @@ menu: "main"
 ## 2018
 
 * *From Dawn to Decadence*, Jacques Barzun, 2000
+* *The Givenness of Things*, Marilynne Robinson, 2015 
 
 ## 2017
 
